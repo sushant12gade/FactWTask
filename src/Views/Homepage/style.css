@@ -1,0 +1,29 @@
+.MuiInputLabel-outlined {
+  font-size: 1.5rem !important;
+  color: #79797c !important;
+  transform: translate(46px, 20px) scale(1) !important;
+}
+
+.MuiInputLabel-shrink {
+  font-size: 1.2rem !important;
+  transform: translate(30px, -10px) scale(1) !important;
+  background-color: white;
+  color: #79797c !important;
+  padding: 0 5px !important;
+}
+
+.MuiOutlinedInput-input {
+  padding: 19.5px 50px !important;
+  border: 3px solid #79797c !important;
+  border-radius: 15px;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  display: none;
+}
+
+
+#input-with-icon-grid {
+background: #d1d9fe !important;
+}
+
